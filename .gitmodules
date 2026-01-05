@@ -1,0 +1,15 @@
+[submodule "challenge-1/starship-dashboard"]
+	path = challenge-1/starship-dashboard
+	url = https://github.com/W-A-Hayward/starship-dashboard.git
+[submodule "challenge-2/auto-clicker"]
+	path = challenge-2/auto-clicker
+	url = https://github.com/W-A-Hayward/auto-clicker.git
+[submodule "challenge-3/my-pokedex"]
+	path = challenge-3/my-pokedex
+	url = https://github.com/W-A-Hayward/my-pokedex.git
+[submodule "challenge-4/level-selector"]
+	path = challenge-4/level-selector
+	url = https://github.com/W-A-Hayward/level-selector.git
+[submodule "challenge-5/dnd-companion"]
+	path = challenge-5/dnd-companion
+	url = https://github.com/W-A-Hayward/dnd-companion.git
